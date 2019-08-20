@@ -3,10 +3,12 @@
 @section('banner')
     <div class="jumbotron">
         <div class="container">
-            <h1>Join Webdevmatics Community</h1>
-            <p>Help and get help</p>
+           
+            <img src="logo3.gif" alt="Girl in a jacket" style="width:200px;height:150px;"> 
+            <h1>Police Department Community Forum</h1>
+           
             <p>
-                <a class="btn btn-primary btn-lg">Learn more</a>
+                <a class="btn btn-primary btn-lg">Utumishi kwa Wote</a>
             </p>
         </div>
     </div>
